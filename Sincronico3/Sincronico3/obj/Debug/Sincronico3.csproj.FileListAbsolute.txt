@@ -1,0 +1,11 @@
+C:\Users\abbot\source\repos\Sincronico3\Sincronico3\bin\Debug\Sincronico3.exe.config
+C:\Users\abbot\source\repos\Sincronico3\Sincronico3\bin\Debug\Sincronico3.exe
+C:\Users\abbot\source\repos\Sincronico3\Sincronico3\bin\Debug\Sincronico3.pdb
+C:\Users\abbot\source\repos\Sincronico3\Sincronico3\obj\Debug\Sincronico3.csproj.AssemblyReference.cache
+C:\Users\abbot\source\repos\Sincronico3\Sincronico3\obj\Debug\Sincronico3.csproj.SuggestedBindingRedirects.cache
+C:\Users\abbot\source\repos\Sincronico3\Sincronico3\obj\Debug\Sincronico3.Form1.resources
+C:\Users\abbot\source\repos\Sincronico3\Sincronico3\obj\Debug\Sincronico3.Properties.Resources.resources
+C:\Users\abbot\source\repos\Sincronico3\Sincronico3\obj\Debug\Sincronico3.csproj.GenerateResource.cache
+C:\Users\abbot\source\repos\Sincronico3\Sincronico3\obj\Debug\Sincronico3.csproj.CoreCompileInputs.cache
+C:\Users\abbot\source\repos\Sincronico3\Sincronico3\obj\Debug\Sincronico3.exe
+C:\Users\abbot\source\repos\Sincronico3\Sincronico3\obj\Debug\Sincronico3.pdb
